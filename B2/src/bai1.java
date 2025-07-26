@@ -8,7 +8,7 @@ import java.util.Scanner;
             System.out.println("Nhap ten cua ban: ");;
             String name = sc.nextLine();
             System.out.println("Nhap tuoi cua ban: ");
-            int tuoi = sc.nextInt();
+//            int tuoi = sc.nextInt();
             System.out.println("Nhap chieu cao cua ban: ");
             double cao = sc.nextDouble();
             System.out.println("Xin chao " + name + " " + tuoi +" tuoi va cao " + cao +" met");
